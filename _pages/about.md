@@ -22,6 +22,8 @@ redirect_from:
 
 # Research Interests
 新制度主义经济学（New institutional economics）
+
 新联结主义（Neo-connectionism）
+
 中国近代史(History of modern China）
 
