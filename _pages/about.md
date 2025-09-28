@@ -17,7 +17,9 @@ redirect_from:
 # Research Interests
 新制度主义经济学（New institutional economics）
 
-新联结主义（Neo-connectionism）
+瞿秋白（Qiubai Qu）
+
+左翼国际主义 left—wing cosmopolitanism）
 
 艺术社会学（Sociology of Art）
 
