@@ -31,7 +31,7 @@ redirect_from:
   作品形式包括：一本手作书及视频论文（video essay）。[项目细节](https://deluxe-grip-a4a.notion.site/277536e6a2e280a1b0f3d93d7896af05?source=copy_link)
 
 # Selected Writings
-- “全球与本土——对千禧以来中国当代艺术综述的尝试“
+- “全球与本土——对千禧以来中国当代艺术综述的尝试”
    
    我在这篇文章中，尝试将中国当代艺术自千禧年后的发展归纳为“全球”与“本土”两个取向，认为想要对此二分现象进行充分理解，需要进入本土艺术史中美术教育的脉络进行挖掘。[大纲版](https://deluxe-grip-a4a.notion.site/277536e6a2e28000958fe4e0845db6fc)
 
