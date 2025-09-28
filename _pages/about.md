@@ -19,7 +19,7 @@ redirect_from:
 
 瞿秋白（Qiubai Qu）
 
-左翼国际主义 left—wing cosmopolitanism）
+左翼国际主义 （left—wing cosmopolitanism）
 
 艺术社会学（Sociology of Art）
 
