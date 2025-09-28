@@ -26,7 +26,8 @@ redirect_from:
 # Recent creative projects
 - “写生课”
   
-   在这项艺术计划中，我虚拟了一个针对中国杭州的钱塘江大桥的写生课程，依托课程形式去比较和考察其中杭州本地两代艺术家——老师和学生——的观察和绘制模式，试图想象一种建立在具体视觉经验中的理想教育（Ideal Education）。作品形式包括：一本手作书及视频论文（video essay）。[项目细节](https://deluxe-grip-a4a.notion.site/277536e6a2e280a1b0f3d93d7896af05?source=copy_link)
+   在这项艺术计划中，我虚拟了一个针对中国杭州的钱塘江大桥的写生课程，依托课程形式去比较和考察其中杭州本地两代艺术家——老师和学生——的观察和绘制模式，试图想象一种建立在具体视觉经验中的理想教育（Ideal Education）。
+   作品形式包括：一本手作书及视频论文（video essay）。[项目细节](https://deluxe-grip-a4a.notion.site/277536e6a2e280a1b0f3d93d7896af05?source=copy_link)
 
 # Selected Writings
 - “全球与本土——对千禧以来中国当代艺术综述的尝试“
